@@ -1,6 +1,6 @@
 Hello! I'm Camila Virna! 
 
-I study Software Engineering at Federal University of Ceara and work to [@includejr](https://includejr.com.br/). Currently I'm study some technologies like HTML, CSS, C and JavaScript.
+I studying Software Engineering at Federal University of Ceara and work to [@includejr](https://includejr.com.br/). Currently I'm study some technologies like HTML, CSS, C and JavaScript.
 :pushpin: [LinkedIn](https://www.linkedin.com/in/camila-virna-b315a91b5/) 
 :pushpin: [Instagram](https://instagram.com/camila_virna?igshid=1hjvumvw106i0).
 :pushpin: [Youtube](https://youtube.com/c/CamilaVirnaGarotasNaTI).
